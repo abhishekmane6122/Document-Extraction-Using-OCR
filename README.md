@@ -93,10 +93,121 @@ python --version
 git --version
 ```
 
-## 📥 Step 1: Clone the Repository
-First, open **Command Prompt (cmd)** or **PowerShell** and run:
+## 📑 Table of Contents  
+
+- [📥 Step 1: Clone the Repository](#-step-1-clone-the-repository)  
+- [📦 Step 2: Create a Virtual Environment](#-step-2-create-a-virtual-environment)  
+- [📜 Step 3: Install Dependencies](#-step-3-install-dependencies)  
+- [📌 Step 4: Install Tesseract OCR](#-step-4-install-tesseract-ocr)  
+- [📂 Step 5: Install Poppler for PDF Processing](#-step-5-install-poppler-for-pdf-processing)  
+- [🚀 Step 6: Running the Application](#-step-6-running-the-application)  
+
+---
+
+## 📥 Step 1: Clone the Repository  
+
+First, open **Command Prompt (cmd)** or **PowerShell** and run:  
 
 ```bash
 git clone https://github.com/yourusername/student-performance-analyzer.git
 cd student-performance-analyzer
-``` 
+```
+## 📦 Step 2: Create a Virtual Environment
+
+Create and activate a virtual environment to keep dependencies isolated.
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+You should see `(venv)` appear in your terminal, indicating the virtual environment is active.
+---
+
+## 📜 Step 3: Install Dependencies
+With the virtual environment activated, install all required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+If `pip` is outdated, upgrade it first:
+
+```bash
+python -m pip install --upgrade pip
+```
+
+---
+
+## 📌 Step 4: Install Tesseract OCR 🖹
+Tesseract OCR is required for text extraction from images and PDFs.
+
+### 🔹 Download & Install Tesseract
+1. Download the Windows installer from:
+   👉 [Tesseract OCR Windows](https://github.com/UB-Mannheim/tesseract/wiki)
+2. Run the installer (`tesseract-ocr-setup.exe`).
+3. During installation, enable "Additional language packs" if needed.
+4. Once installed, locate the installation path (default is usually):
+
+```bash
+C:\Program Files\Tesseract-OCR
+```
+
+### 🔹 Add Tesseract to System Path:
+1. Open **Environment Variables**:
+   - Press `Win + R`, type `sysdm.cpl`, and hit Enter.
+   - Go to the **Advanced** tab → Click **Environment Variables**.
+2. Under **System Variables**, find **Path** and edit it.
+3. Click **New** and add:
+
+```bash
+C:\Program Files\Tesseract-OCR
+```
+
+### 🔹 Verify installation:
+
+```bash
+tesseract --version
+```
+You should see the installed version of Tesseract.
+
+---
+
+## 📂 Step 5: Install Poppler for PDF Processing
+Poppler is required for converting PDF pages into images.
+
+### 🔹 Download & Install Poppler
+1. Download Poppler for Windows from:
+   👉 [Poppler for Windows](https://github.com/oschwartz10612/poppler-windows/releases)
+2. Extract the downloaded ZIP file to a directory, e.g., `C:\poppler-xx\`
+
+### 🔹 Add Poppler to System Path:
+1. Open **Environment Variables**:
+   - Press `Win + R`, type `sysdm.cpl`, and hit Enter.
+   - Go to the **Advanced** tab → Click **Environment Variables**.
+2. Under **System Variables**, find **Path** and edit it.
+3. Click **New** and add:
+
+```bash
+C:\poppler-xx\bin
+```
+
+### 🔹 Verify installation:
+
+```bash
+pdfinfo -v
+```
+
+---
+
+## 🚀 Step 6: Running the Application
+After installing all dependencies, start the Flask application:
+
+```bash
+python app.py
+```
+
+The application should now be running at:
+👉 [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
+
+
