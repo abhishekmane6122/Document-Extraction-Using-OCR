@@ -224,4 +224,43 @@ python app.py
 The application should now be running at:
 👉 [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
+--- 
+## 🚀 Usage & Workflow
+
+### 1️⃣ Step 1: Upload a File  
+- Navigate to the web application:  
+  👉 Open `http://127.0.0.1:5000/` in your browser.  
+- Click on the **Upload File** button.  
+- Select an image (JPEG/PNG), PDF, or DOCX file.  
+- Click **Submit** to process the file.
+
+### 2️⃣ Step 2: File Validation  
+- The system checks:
+  - ✅ File format (JPEG, PNG, PDF, DOCX).
+  - ✅ File size (Max: 5MB).
+  - ✅ MIME type security validation.
+- If invalid, an error message will be displayed.
+
+### 3️⃣ Step 3: Preprocessing (For Images & PDFs)  
+- If an **image** is uploaded:
+  - 📌 Converts to **grayscale** for better OCR accuracy.
+  - 📌 Applies **thresholding** to remove noise.
+- If a **PDF** is uploaded:
+  - 📌 Converts each page into an image.
+  - 📌 Applies preprocessing before OCR.
+
+### 4️⃣ Step 4: Text Extraction  
+- Uses **Tesseract OCR** to extract text from images/PDFs.  
+- Uses **python-docx** to extract text from DOCX files.  
+- Extracted text is displayed on the UI.
+
+### 5️⃣ Step 5: Display & Download Results  
+- The extracted text appears in the browser.  
+- Option to **copy, download, or analyze** extracted text.  
+
+💡 **Tip:** Ensure Tesseract and Poppler are installed correctly before running the app!  
+
+---
+
+
 
