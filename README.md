@@ -1,4 +1,4 @@
-# 🎓 Student Performance Analyzer & Career Recommendation System - Doc Extraction 🚀
+# 🎓 Student Performance Analyzer & Career Recommendation System 🚀
 
 
 <p align="center">
