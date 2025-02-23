@@ -152,8 +152,8 @@ git --version
 First, open **Command Prompt (cmd)** or **PowerShell** and run:  
 
 ```bash
-git clone https://github.com/yourusername/student-performance-analyzer.git
-cd student-performance-analyzer
+https://github.com/abhishekmane6122/Document-Extraction-Using-OCR.git
+cd app.py
 ```
 ## 📦 Step 2: Create a Virtual Environment
 
