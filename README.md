@@ -1,25 +1,25 @@
 # 🎓 Student Performance Analyzer & Career Recommendation System 🚀
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue" height="20">
-  <img src="https://img.shields.io/badge/Flask-2.0.1-green" height="20">
-  <img src="https://img.shields.io/badge/OpenCV-4.5.5-red" height="20">
-  <img src="https://img.shields.io/badge/Tesseract-5.0.0-orange" height="20">
-  <img src="https://img.shields.io/badge/OCR-Tesseract-blueviolet" height="20">
-  <img src="https://img.shields.io/badge/PDF2Image-1.16.0-yellow" height="20">
-  <img src="https://img.shields.io/badge/Poppler-21.03.0-lightgrey" height="20">
-  <img src="https://img.shields.io/badge/PyTesseract-0.3.8-darkgreen" height="20">
-  <img src="https://img.shields.io/badge/python--docx-0.8.11-9cf" height="20">
-  <img src="https://img.shields.io/badge/Bootstrap-5.1.3-purple" height="20">
-  <img src="https://img.shields.io/badge/HTML-5-orange" height="20">
-  <img src="https://img.shields.io/badge/CSS-3-blue" height="20">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow" height="20">
-  <img src="https://img.shields.io/badge/JSON-Data_Format-000000?logo=json" height="20">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="20">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="20">
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" height="20">
-</p>
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-2.0.1-green?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/OpenCV-4.5.5-red?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Tesseract-5.0.0-orange?style=for-the-badge&logo=tesseract&logoColor=white" alt="Tesseract">
+  <img src="https://img.shields.io/badge/OCR-Tesseract-blueviolet?style=for-the-badge&logo=tesseract&logoColor=white" alt="OCR">
+  <img src="https://img.shields.io/badge/PDF2Image-1.16.0-yellow?style=for-the-badge&logo=adobe&logoColor=white" alt="PDF2Image">
+  <img src="https://img.shields.io/badge/Poppler-21.03.0-lightgrey?style=for-the-badge&logo=poppler&logoColor=black" alt="Poppler">
+  <img src="https://img.shields.io/badge/PyTesseract-0.3.8-darkgreen?style=for-the-badge&logo=tesseract&logoColor=white" alt="PyTesseract">
+  <img src="https://img.shields.io/badge/python--docx-0.8.11-9cf?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Python-docx">
+  <img src="https://img.shields.io/badge/Bootstrap-5.1.3-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JSON-Data_Format-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+</h3>
 
 
 Welcome to the **Student Performance Analyzer & Career Recommendation System** repository! This project is designed to simplify text extraction from various document formats like **JPEG, PNG, PDF, and DOCX** using **Optical Character Recognition (OCR)** and **image processing techniques**. 📄➡️💻  
