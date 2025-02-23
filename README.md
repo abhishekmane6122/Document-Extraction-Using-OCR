@@ -13,6 +13,10 @@
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![JSON](https://img.shields.io/badge/JSON-Data_Format-000000?logo=json)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
 
 Welcome to the **Student Performance Analyzer & Career Recommendation System** repository! This project is designed to simplify text extraction from various document formats like **JPEG, PNG, PDF, and DOCX** using **Optical Character Recognition (OCR)** and **image processing techniques**. 📄➡️💻  
