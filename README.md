@@ -15,6 +15,7 @@ The extracted text becomes a **valuable resource for analyzing student performan
 ## 📜 Table of Contents
 - [🔍 Overview](#-overview)
 - [✨ Features](#-features)
+- [📸 Screenshot and Demo](#-screenshot)
 - [📁 Repository Structure](#-repository-structure)
 - [⚙️ Installation & Setup](#-installation--setup)
 - [🛠️ Usage & Workflow](#-usage--workflow)
@@ -65,7 +66,32 @@ The **goal** of this project is to **streamline student data processing** and en
    - Based on extracted academic performance, the system can provide **AI-driven career suggestions**.  
 
 ---
+## 📸 Screenshot and Demo
 
+Here’s a quick preview of how the application works:  
+
+### 🎥 Live Demo  
+Watch the full process in action!  
+[![Watch Demo](https://img.shields.io/badge/🎥%20Watch%20Demo-Click%20Here-red)](https://github.com/abhishekmane6122/Document-Extraction-Using-OCR/blob/main/Screenshots/Document%20Extraction.mp4)  
+
+### 📌 Dashboard & Extracted Results  
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Dashboard View</b></td>
+      <td align="center"><b>Extracted Results</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/abhishekmane6122/Document-Extraction-Using-OCR/blob/main/Screenshots/Dashboard.png" width="400"></td>
+      <td><img src="https://github.com/abhishekmane6122/Document-Extraction-Using-OCR/blob/main/Screenshots/Result%20.png" width="400"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+---
 ## 📁 Repository Structure  
 
 ```bash
@@ -259,41 +285,6 @@ The application should now be running at:
 - Option to **copy, download, or analyze** extracted text.  
 
 💡 **Tip:** Ensure Tesseract and Poppler are installed correctly before running the app!  
-
----
-## Screenshot and Recording 
-## 📸 Screenshots & Demo  
-
-Here’s a quick preview of how the application works:  
-
-### 🎥 Live Demo  
-Watch the full process in action!  
-[![Watch Demo](https://img.shields.io/badge/🎥%20Watch%20Demo-Click%20Here-red)](https://github.com/abhishekmane6122/Document-Extraction-Using-OCR/blob/main/Screenshots/Document%20Extraction.mp4)  
-
-### 📌 Dashboard View  
-The main interface where users can upload documents for extraction.  
-![Dashboard](https://github.com/abhishekmane6122/Document-Extraction-Using-OCR/blob/main/Screenshots/Dashboard.png)  
-
-### 📌 Extracted Results  
-Preview of the extracted text displayed after processing.  
-![Result](https://github.com/abhishekmane6122/Document-Extraction-Using-OCR/blob/main/Screenshots/Result%20.png)  
-
----
-
-### 📌 Dashboard & Extracted Results  
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Dashboard View</b></td>
-      <td align="center"><b>Extracted Results</b></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/abhishekmane6122/Document-Extraction-Using-OCR/blob/main/Screenshots/Dashboard.png" width="400"></td>
-      <td><img src="https://github.com/abhishekmane6122/Document-Extraction-Using-OCR/blob/main/Screenshots/Result%20.png" width="400"></td>
-    </tr>
-  </table>
-</div>
 
 ---
 ## ⚠️ Troubleshooting
