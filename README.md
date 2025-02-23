@@ -278,6 +278,22 @@ The main interface where users can upload documents for extraction.
 Preview of the extracted text displayed after processing.  
 ![Result](https://github.com/abhishekmane6122/Document-Extraction-Using-OCR/blob/main/Screenshots/Result%20.png)  
 
+---
+
+### 📌 Dashboard & Extracted Results  
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Dashboard View</b></td>
+      <td align="center"><b>Extracted Results</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/abhishekmane6122/Document-Extraction-Using-OCR/blob/main/Screenshots/Dashboard.png" width="400"></td>
+      <td><img src="https://github.com/abhishekmane6122/Document-Extraction-Using-OCR/blob/main/Screenshots/Result%20.png" width="400"></td>
+    </tr>
+  </table>
+</div>
 
 ---
 ## ⚠️ Troubleshooting
