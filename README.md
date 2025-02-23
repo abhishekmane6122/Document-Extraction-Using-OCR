@@ -120,8 +120,8 @@ Create and activate a virtual environment to keep dependencies isolated.
 python -m venv venv
 venv\Scripts\activate
 ```
-
 You should see `(venv)` appear in your terminal, indicating the virtual environment is active.
+
 ---
 
 ## 📜 Step 3: Install Dependencies
