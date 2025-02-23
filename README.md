@@ -136,6 +136,20 @@ If `pip` is outdated, upgrade it first:
 ```bash
 python -m pip install --upgrade pip
 ```
+### 📜 `requirements.txt`
+
+Here’s the full list of dependencies to include in your `requirements.txt` file:
+
+```
+Flask
+opencv-python
+pytesseract
+pdf2image
+python-docx
+python-magic
+pillow
+poppler-utils
+```
 
 ---
 
