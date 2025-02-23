@@ -4,6 +4,15 @@
 ![Flask](https://img.shields.io/badge/Flask-2.0.1-green)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5.5-red)
 ![Tesseract](https://img.shields.io/badge/Tesseract-5.0.0-orange)
+![OCR](https://img.shields.io/badge/OCR-Tesseract-blueviolet)
+![PDF2Image](https://img.shields.io/badge/PDF2Image-1.16.0-yellow)
+![Poppler](https://img.shields.io/badge/Poppler-21.03.0-lightgrey)
+![pytesseract](https://img.shields.io/badge/PyTesseract-0.3.8-darkgreen)
+![Python-docx](https://img.shields.io/badge/python--docx-0.8.11-9cf)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.1.3-purple)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 
 Welcome to the **Student Performance Analyzer & Career Recommendation System** repository! This project is designed to simplify text extraction from various document formats like **JPEG, PNG, PDF, and DOCX** using **Optical Character Recognition (OCR)** and **image processing techniques**. 📄➡️💻  
