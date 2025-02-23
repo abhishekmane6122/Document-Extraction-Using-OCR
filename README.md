@@ -262,6 +262,21 @@ The application should now be running at:
 
 ---
 ## Screenshot and Recording 
+## 📸 Screenshots & Demo  
+
+Here’s a quick preview of how the application works:  
+
+### 🎥 Live Demo  
+Watch the full process in action!  
+[![Watch Demo](https://img.shields.io/badge/🎥%20Watch%20Demo-Click%20Here-red)](https://github.com/abhishekmane6122/Document-Extraction-Using-OCR/blob/main/Screenshots/Document%20Extraction.mp4)  
+
+### 📌 Dashboard View  
+The main interface where users can upload documents for extraction.  
+![Dashboard](https://github.com/abhishekmane6122/Document-Extraction-Using-OCR/blob/main/Screenshots/Dashboard.png)  
+
+### 📌 Extracted Results  
+Preview of the extracted text displayed after processing.  
+![Result](https://github.com/abhishekmane6122/Document-Extraction-Using-OCR/blob/main/Screenshots/Result%20.png)  
 
 
 ---
