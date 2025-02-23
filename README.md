@@ -90,8 +90,6 @@ Watch the full process in action!
 </div>
 
 ---
-
----
 ## 📁 Repository Structure  
 
 ```bash
@@ -100,6 +98,9 @@ Watch the full process in action!
 ├── requirements.txt        # 📜 List of required Python dependencies
 ├── uploads/                # 📂 Directory storing uploaded files
 ├── extracted_text/         # 📄 Directory for storing extracted text in JSON format
+├── diagrams/               # 📝 Diagrams and Architecture
+├── documents/              # 📄 End to End Report
+├── screenshot/             # 🎥 Screenshot and recordings 
 ├── templates/              # 🎨 HTML templates for the web interface
 │   ├── index.html          # 🖼️ Upload interface
 │   └── result.html         # 📋 Results display page
