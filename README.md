@@ -79,3 +79,24 @@ The **goal** of this project is to **streamline student data processing** and en
 │   └── result.html         # 📋 Results display page
 ├── static/                 # 🎨 CSS/JS assets for styling
 ``` 
+# ⚙️ Installation & Setup 
+
+## 🐍 Prerequisites  
+Ensure you have the following installed before proceeding:  
+- **Python 3.8+** ([Download Here](https://www.python.org/downloads/))  
+- **Git** ([Download Here](https://git-scm.com/downloads))  
+
+Verify the installations:  
+
+```bash
+python --version
+git --version
+```
+
+## 📥 Step 1: Clone the Repository
+First, open **Command Prompt (cmd)** or **PowerShell** and run:
+
+```bash
+git clone https://github.com/yourusername/student-performance-analyzer.git
+cd student-performance-analyzer
+``` 
