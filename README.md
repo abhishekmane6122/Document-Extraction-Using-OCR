@@ -262,5 +262,19 @@ The application should now be running at:
 
 ---
 
+## ⚠️ Troubleshooting
+
+| Issue | Solution |
+|-------|----------|
+| ❌ **File upload fails** | Check file type and size (≤5MB). |
+| ❌ **JSON file not saved** | Ensure `extracted_text` folder exists. |
+| ❌ **Tesseract not found** | Verify Tesseract installation and update `TESSERACT_CMD` path in `app.py`. |
+| ❌ **PDF conversion failed** | Install Poppler and set `POPPLER_PATH` in environment variables. |
+| ❌ **Flask server not starting** | Ensure no other application is using port `5000`. Use `flask run --port 5001` to change the port. |
+| ❌ **Virtual environment not activating** | Ensure Python is installed correctly. Use `python -m venv venv` to recreate the virtual environment. |
+| ❌ **Dependencies not installing** | Upgrade pip using `python -m pip install --upgrade pip` and retry. |
+| ❌ **File type validation error** | Ensure the file matches the allowed MIME types (JPEG, PNG, PDF, DOCX). |
+
+💡 **Tip:** If you're still facing issues, check the error logs in the terminal and ensure all dependencies are correctly installed. 🚀
 
 
