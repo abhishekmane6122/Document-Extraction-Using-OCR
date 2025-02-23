@@ -261,7 +261,10 @@ The application should now be running at:
 💡 **Tip:** Ensure Tesseract and Poppler are installed correctly before running the app!  
 
 ---
+## Screenshot and Recording 
 
+
+---
 ## ⚠️ Troubleshooting
 
 | Issue | Solution |
