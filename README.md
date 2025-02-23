@@ -18,7 +18,8 @@ The extracted text becomes a **valuable resource for analyzing student performan
 - [📁 Repository Structure](#-repository-structure)
 - [⚙️ Installation & Setup](#-installation--setup)
 - [▶️ Running the Application](#-running-the-application)
-- [🛠️ Usage](#-usage)
+- [🛠️ Usage & Workflow](#-Usage_&_Workflow)
+- [⚠️ Troubleshooting](#-Troubleshooting)
 
 ---
 
