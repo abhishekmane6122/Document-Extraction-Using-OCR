@@ -1,22 +1,5 @@
 # 🎓 Student Performance Analyzer & Career Recommendation System 🚀
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Flask](https://img.shields.io/badge/Flask-2.0.1-green)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.5.5-red)
-![Tesseract](https://img.shields.io/badge/Tesseract-5.0.0-orange)
-![OCR](https://img.shields.io/badge/OCR-Tesseract-blueviolet)
-![PDF2Image](https://img.shields.io/badge/PDF2Image-1.16.0-yellow)
-![Poppler](https://img.shields.io/badge/Poppler-21.03.0-lightgrey)
-![pytesseract](https://img.shields.io/badge/PyTesseract-0.3.8-darkgreen)
-![Python-docx](https://img.shields.io/badge/python--docx-0.8.11-9cf)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.1.3-purple)
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![JSON](https://img.shields.io/badge/JSON-Data_Format-000000?logo=json)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue" height="30">
